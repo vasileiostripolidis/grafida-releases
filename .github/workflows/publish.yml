@@ -1,9 +1,11 @@
-# Δημιουργεί τη δημόσια έκδοση (Release) από τα αρχεία του φακέλου «dist/vX.Y.Z» όταν σταλεί tag vX.Y.Z.
+# Όταν προστεθεί νέος φάκελος «dist/vX.Y.Z», δημιουργεί αυτόματα τη δημόσια έκδοση (Release) με αυτά τα αρχεία.
 name: Δημοσίευση έκδοσης
 
 on:
   push:
-    tags: ['v*']
+    branches: [main]
+    paths: ['dist/**']
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,10 +15,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Νεότερη έκδοση
+        id: ver
+        run: echo "tag=$(ls dist | sort -V | tail -1)" >> "$GITHUB_OUTPUT"
       - uses: softprops/action-gh-release@v2
         with:
-          name: Γραφίδα ${{ github.ref_name }}
+          tag_name: ${{ steps.ver.outputs.tag }}
+          target_commitish: ${{ github.sha }}
+          name: Γραφίδα ${{ steps.ver.outputs.tag }}
           body: Κατέβασε το αρχείο που τελειώνει σε «-setup.exe» και άνοιξέ το για εγκατάσταση. Αν έχεις ήδη τη Γραφίδα, θα ενημερωθεί μόνη της.
-          files: |
-            dist/${{ github.ref_name }}/*
+          files: dist/${{ steps.ver.outputs.tag }}/*
           make_latest: true
