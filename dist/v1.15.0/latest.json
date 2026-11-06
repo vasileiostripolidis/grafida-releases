@@ -1,0 +1,19 @@
+{
+  "version": "1.15.0",
+  "notes": "Μέρος Β: πινέλο μορφοποίησης με συνεχή χρήση, πλήρεις διάλογοι Παράγραφος/Γραμματοσειρά/Περιγράμματα, σύνδεσμοι, αριθμοί σελίδας, σύμβολα, υδατογράφημα εικόνας, στήλες, αριθμοί γραμμών, φάκελοι και ετικέτες, παραπομπές που ενημερώνονται, ανάγνωση φωναχτά, μεταφραστής, περιορισμός επεξεργασίας, επιλογές στυλ πίνακα, στυλ εικόνας, Θησαυρός, παράθυρο ορθογραφίας, επανεγγραφή με εκδοχές, υπαγόρευση, επιλογές PDF, διατήρηση VBA στα .docm (χωρίς εκτέλεση), προσαρμογή γραμμής γρήγορης πρόσβασης, νέες συντομεύσεις και ανάκτηση μη αποθηκευμένων εγγράφων.",
+  "pub_date": "2026-11-06T17:46:51Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYitHMlo3MjdlOE9jUVQwLytiU3JDYzJKQXVJY0k0U0RCQ1JhdWZOSjc2RExKV1lXem9nUktLZmRMS25RZjkrNWZQYUFia3JjWnE5Ui9ScFRKeDhqc05sWUxzMUhGeHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTg3MTU1CWZpbGU6RE9DXzEuMTUuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xNS4wCjJqQmYwQXNCKzFlQ0xOZkxIWHJYM0x6KzR4TFdzN05KczlSbDZJQk9UWXlRN2JNU3h1YzZ1aFRveEhHTmsrbkpxdVpUSWQ1a3JvZm95VWwydXlIMkJ3PT0K",
+      "url": "https://github.com/vasileiostripolidis/grafida-releases/releases/download/v1.15.0/DOC_1.15.0_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYitHMlo3MjdlOE9jUVQwLytiU3JDYzJKQXVJY0k0U0RCQ1JhdWZOSjc2RExKV1lXem9nUktLZmRMS25RZjkrNWZQYUFia3JjWnE5Ui9ScFRKeDhqc05sWUxzMUhGeHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTg3MTU1CWZpbGU6RE9DXzEuMTUuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xNS4wCjJqQmYwQXNCKzFlQ0xOZkxIWHJYM0x6KzR4TFdzN05KczlSbDZJQk9UWXlRN2JNU3h1YzZ1aFRveEhHTmsrbkpxdVpUSWQ1a3JvZm95VWwydXlIMkJ3PT0K",
+      "url": "https://github.com/vasileiostripolidis/grafida-releases/releases/download/v1.15.0/DOC_1.15.0_x64-setup.exe"
+    },
+    "windows-x86_64-insider": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYitHMlo3MjdlOE9jUVQwLytiU3JDYzJKQXVJY0k0U0RCQ1JhdWZOSjc2RExKV1lXem9nUktLZmRMS25RZjkrNWZQYUFia3JjWnE5Ui9ScFRKeDhqc05sWUxzMUhGeHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTg3MTU1CWZpbGU6RE9DXzEuMTUuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xNS4wCjJqQmYwQXNCKzFlQ0xOZkxIWHJYM0x6KzR4TFdzN05KczlSbDZJQk9UWXlRN2JNU3h1YzZ1aFRveEhHTmsrbkpxdVpUSWQ1a3JvZm95VWwydXlIMkJ3PT0K",
+      "url": "https://github.com/vasileiostripolidis/grafida-releases/releases/download/v1.15.0/DOC_1.15.0_x64-setup.exe"
+    }
+  }
+}
