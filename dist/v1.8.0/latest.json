@@ -1,0 +1,19 @@
+{
+  "version": "1.8.0",
+  "notes": "Σχεδίαση και Διάταξη: θέματα, Σχεδιαστής, αναδίπλωση/θέση αντικειμένων, διαμόρφωση σελίδας, κεφαλίδες πρώτης/μονών-ζυγών, ενότητες.",
+  "pub_date": "2026-11-06T14:58:21Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYitHMlo3MjdlOExMbTNMdGx5UFFHZUVSbWdFa2QraGltRUM1RjZoL0FMRlRVRTNyRHdSOXA2bUMxdFJuQUhjQURXZy84dUZvOVpqSEk2VXh0b3BYblhNemtEaHhweXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTc3MDc4CWZpbGU6RE9DXzEuOC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjguMApjY0NDMk1xOEcxY1FhWkc1dW5EajRSc2QvQ3UxbDRuU2xpQUkxRmlkNXBrN09pS2pESkFZVDlzYVlXU3FPYVpkRlBFSjc1VFNBUlBLNm1RVG5xdHZDQT09Cg==",
+      "url": "https://github.com/vasileiostripolidis/grafida-releases/releases/download/v1.8.0/DOC_1.8.0_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYitHMlo3MjdlOExMbTNMdGx5UFFHZUVSbWdFa2QraGltRUM1RjZoL0FMRlRVRTNyRHdSOXA2bUMxdFJuQUhjQURXZy84dUZvOVpqSEk2VXh0b3BYblhNemtEaHhweXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTc3MDc4CWZpbGU6RE9DXzEuOC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjguMApjY0NDMk1xOEcxY1FhWkc1dW5EajRSc2QvQ3UxbDRuU2xpQUkxRmlkNXBrN09pS2pESkFZVDlzYVlXU3FPYVpkRlBFSjc1VFNBUlBLNm1RVG5xdHZDQT09Cg==",
+      "url": "https://github.com/vasileiostripolidis/grafida-releases/releases/download/v1.8.0/DOC_1.8.0_x64-setup.exe"
+    },
+    "windows-x86_64-insider": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYitHMlo3MjdlOExMbTNMdGx5UFFHZUVSbWdFa2QraGltRUM1RjZoL0FMRlRVRTNyRHdSOXA2bUMxdFJuQUhjQURXZy84dUZvOVpqSEk2VXh0b3BYblhNemtEaHhweXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTc3MDc4CWZpbGU6RE9DXzEuOC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjguMApjY0NDMk1xOEcxY1FhWkc1dW5EajRSc2QvQ3UxbDRuU2xpQUkxRmlkNXBrN09pS2pESkFZVDlzYVlXU3FPYVpkRlBFSjc1VFNBUlBLNm1RVG5xdHZDQT09Cg==",
+      "url": "https://github.com/vasileiostripolidis/grafida-releases/releases/download/v1.8.0/DOC_1.8.0_x64-setup.exe"
+    }
+  }
+}
