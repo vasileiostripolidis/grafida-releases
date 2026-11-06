@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Γραφίδα — Λήψη</title>
+<link rel="icon" href="logo.svg">
+<style>
+  :root { --a:#5b4bdb; --b:#8b7cff; }
+  * { box-sizing: border-box; }
+  body { margin:0; min-height:100vh; display:grid; place-items:center; font-family:"Segoe UI",system-ui,sans-serif; color:#24213a;
+         background: radial-gradient(1200px 600px at 20% 0%, #ecebff, transparent), radial-gradient(900px 500px at 100% 100%, #fde9f1, transparent), #f7f6fb; }
+  .card { width:min(560px, 92vw); background:#fff; border-radius:24px; padding:48px 40px; text-align:center;
+          box-shadow:0 1px 2px rgba(30,20,80,.06),0 20px 60px rgba(30,20,80,.12); }
+  img { width:88px; height:88px; }
+  h1 { font-weight:600; font-size:34px; margin:14px 0 6px; }
+  p { color:#77738f; margin:0 0 28px; line-height:1.5; }
+  .dl { display:inline-flex; align-items:center; gap:10px; padding:16px 30px; border-radius:999px; color:#fff; text-decoration:none;
+        font-size:17px; font-weight:600; background:linear-gradient(90deg,var(--a),var(--b)); box-shadow:0 8px 24px rgba(91,75,219,.35); transition:transform .15s; }
+  .dl:hover { transform:translateY(-2px); }
+  .meta { margin-top:16px; font-size:13px; color:#9a96b5; }
+  ul { text-align:left; color:#55516e; margin:32px auto 0; max-width:360px; padding-left:20px; line-height:1.9; font-size:14px; }
+</style>
+</head>
+<body>
+  <main class="card">
+    <img src="logo.svg" alt="">
+    <h1>Γραφίδα</h1>
+    <p>Ελαφρύς, όμορφος επεξεργαστής κειμένου για Windows.<br>Ανοίγει και αποθηκεύει αρχεία .docx.</p>
+    <a class="dl" id="dl" href="https://github.com/vasileiostripolidis/grafida-releases/releases/latest">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12"/><path d="m7 10 5 5 5-5"/><path d="M5 21h14"/></svg>
+      Λήψη για Windows
+    </a>
+    <div class="meta" id="meta">Windows 10 / 11 · 64-bit</div>
+    <ul>
+      <li>Δωρεάν και χωρίς διαφημίσεις</li>
+      <li>Ενημερώνεται αυτόματα</li>
+      <li>Λιγότερο από 10 MB</li>
+    </ul>
+  </main>
+<script>
+  fetch('https://api.github.com/repos/vasileiostripolidis/grafida-releases/releases/latest')
+    .then(r => r.json())
+    .then(rel => {
+      const exe = (rel.assets || []).find(a => /-setup\.exe$/i.test(a.name));
+      if (!exe) return;
+      document.getElementById('dl').href = exe.browser_download_url;
+      const mb = (exe.size / 1048576).toFixed(1).replace('.', ',');
+      document.getElementById('meta').textContent = `Έκδοση ${rel.tag_name.replace(/^v/, '')} · ${mb} MB · Windows 10 / 11`;
+    })
+    .catch(() => {});
+</script>
+</body>
+</html>
