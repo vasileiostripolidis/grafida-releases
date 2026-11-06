@@ -1,0 +1,19 @@
+{
+  "version": "1.10.0",
+  "notes": "Στοιχεία αλληλογραφίας: οδηγός, Excel/Word/vCard, επεξεργασία λίστας, κανόνες, διακόπτες πεδίων, έλεγχος σφαλμάτων, email.",
+  "pub_date": "2026-11-06T15:23:12Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYitHMlo3MjdlOEptOGF5Slc0NUduZHlMTHVIOHVjalcxT2VMOG9zT3M4aVhkNmZycG9Udjc4bDM5dFV0TUs4RXhremhQc0E2QTE5UVJpV240UXl4dHAxeUhzbWlaMkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTc4NTY2CWZpbGU6RE9DXzEuMTAuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xMC4wCmNLMXBmSXF5UkIzYys1MERYdVJ0N0Vabi9CNUR4Z2lzeG9WQ0dQUHplVmtFWjUzS1FkQmZOakJGRFlDK1prRHQyeWMzRU9ub3hDZi9PaS9hRktTNUJRPT0K",
+      "url": "https://github.com/vasileiostripolidis/grafida-releases/releases/download/v1.10.0/DOC_1.10.0_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYitHMlo3MjdlOEptOGF5Slc0NUduZHlMTHVIOHVjalcxT2VMOG9zT3M4aVhkNmZycG9Udjc4bDM5dFV0TUs4RXhremhQc0E2QTE5UVJpV240UXl4dHAxeUhzbWlaMkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTc4NTY2CWZpbGU6RE9DXzEuMTAuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xMC4wCmNLMXBmSXF5UkIzYys1MERYdVJ0N0Vabi9CNUR4Z2lzeG9WQ0dQUHplVmtFWjUzS1FkQmZOakJGRFlDK1prRHQyeWMzRU9ub3hDZi9PaS9hRktTNUJRPT0K",
+      "url": "https://github.com/vasileiostripolidis/grafida-releases/releases/download/v1.10.0/DOC_1.10.0_x64-setup.exe"
+    },
+    "windows-x86_64-insider": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYitHMlo3MjdlOEptOGF5Slc0NUduZHlMTHVIOHVjalcxT2VMOG9zT3M4aVhkNmZycG9Udjc4bDM5dFV0TUs4RXhremhQc0E2QTE5UVJpV240UXl4dHAxeUhzbWlaMkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTc4NTY2CWZpbGU6RE9DXzEuMTAuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xMC4wCmNLMXBmSXF5UkIzYys1MERYdVJ0N0Vabi9CNUR4Z2lzeG9WQ0dQUHplVmtFWjUzS1FkQmZOakJGRFlDK1prRHQyeWMzRU9ub3hDZi9PaS9hRktTNUJRPT0K",
+      "url": "https://github.com/vasileiostripolidis/grafida-releases/releases/download/v1.10.0/DOC_1.10.0_x64-setup.exe"
+    }
+  }
+}
