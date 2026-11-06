@@ -1,0 +1,15 @@
+{
+  "version": "1.2.1",
+  "notes": "Ταχύτερη και ελαφρύτερη εφαρμογή, καλύτερη δομή κώδικα, νέα πρότυπα (Τιμολόγιο, Σημειώσεις σύσκεψης) και διορθώσεις στις Επιλογές.",
+  "pub_date": "2026-11-06T11:34:28Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYitHMlo3MjdlOEt1ak5YV2pybTNONW9iNnl3VDBid24rZ3VVNWFXaTcrSnpGL3pDU2tmTzFPckhtbzRsbFRsK29vR1A5bFdsL1IzQi9RSGtoUm1wN1ExNndlU1ZCaEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTY0ODM0CWZpbGU6R3JhZmlkYV8xLjIuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4yLjEKUlBhaFZ0Vy9EN1ovKzhuU1dIY1hITlliMU9TUUxwNE45VmpORHBjYXNxR3ZHNXVacUpuYVFmc25wMlVIaU9HSlpvbVdRN0xnQkptYmN5bjJuVUxhQ3c9PQo=",
+      "url": "https://github.com/vasileiostripolidis/grafida-releases/releases/download/v1.2.1/Grafida_1.2.1_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYitHMlo3MjdlOEt1ak5YV2pybTNONW9iNnl3VDBid24rZ3VVNWFXaTcrSnpGL3pDU2tmTzFPckhtbzRsbFRsK29vR1A5bFdsL1IzQi9RSGtoUm1wN1ExNndlU1ZCaEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTY0ODM0CWZpbGU6R3JhZmlkYV8xLjIuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4yLjEKUlBhaFZ0Vy9EN1ovKzhuU1dIY1hITlliMU9TUUxwNE45VmpORHBjYXNxR3ZHNXVacUpuYVFmc25wMlVIaU9HSlpvbVdRN0xnQkptYmN5bjJuVUxhQ3c9PQo=",
+      "url": "https://github.com/vasileiostripolidis/grafida-releases/releases/download/v1.2.1/Grafida_1.2.1_x64-setup.exe"
+    }
+  }
+}
