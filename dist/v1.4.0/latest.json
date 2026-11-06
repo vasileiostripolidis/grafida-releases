@@ -1,0 +1,15 @@
+{
+  "version": "1.4.0",
+  "notes": "Χάρακες σαν του Word, δεξί κλικ με ορθογραφία, μίνι γραμμή δύο σειρών, θέματα Λευκό/Σκούρο γκρι/Μαύρο, ξεχωριστό χρώμα σελίδας, νέο λογότυπο.",
+  "pub_date": "2026-11-06T13:03:52Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYitHMlo3MjdlOERYUW9URExETUJrbXhPY3RiRmlDd25BVHZJNGljcjRaQUlCR2d6bU4vS2lZSFlwaVFRN2w2b2ZlZ1p3TEl2aVhaQTlkQmVOd3N5ZVk5dFcxOG1IU0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTcwMTkyCWZpbGU6RE9DXzEuNC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjQuMApsbzU5bTVHM0RpVllPVWRlRE9QWXMrWWYyZndUaWxnM0pNL0xuOE1aVnE4RmFqcGRIbE5hM1IrMHJSMlNPamJaRXI4dVhzSFpYNnltb2hDaUNlQkZBZz09Cg==",
+      "url": "https://github.com/vasileiostripolidis/grafida-releases/releases/download/v1.4.0/DOC_1.4.0_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYitHMlo3MjdlOERYUW9URExETUJrbXhPY3RiRmlDd25BVHZJNGljcjRaQUlCR2d6bU4vS2lZSFlwaVFRN2w2b2ZlZ1p3TEl2aVhaQTlkQmVOd3N5ZVk5dFcxOG1IU0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTcwMTkyCWZpbGU6RE9DXzEuNC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjQuMApsbzU5bTVHM0RpVllPVWRlRE9QWXMrWWYyZndUaWxnM0pNL0xuOE1aVnE4RmFqcGRIbE5hM1IrMHJSMlNPamJaRXI4dVhzSFpYNnltb2hDaUNlQkZBZz09Cg==",
+      "url": "https://github.com/vasileiostripolidis/grafida-releases/releases/download/v1.4.0/DOC_1.4.0_x64-setup.exe"
+    }
+  }
+}
