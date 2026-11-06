@@ -1,0 +1,22 @@
+# Δημιουργεί τη δημόσια έκδοση (Release) από τα αρχεία του φακέλου «dist/vX.Y.Z» όταν σταλεί tag vX.Y.Z.
+name: Δημοσίευση έκδοσης
+
+on:
+  push:
+    tags: ['v*']
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: softprops/action-gh-release@v2
+        with:
+          name: Γραφίδα ${{ github.ref_name }}
+          body: Κατέβασε το αρχείο που τελειώνει σε «-setup.exe» και άνοιξέ το για εγκατάσταση. Αν έχεις ήδη τη Γραφίδα, θα ενημερωθεί μόνη της.
+          files: |
+            dist/${{ github.ref_name }}/*
+          make_latest: true
