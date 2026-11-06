@@ -1,0 +1,15 @@
+{
+  "version": "1.2.2",
+  "notes": "Χάρακες στην άκρη του παραθύρου, κορδέλα σε όλο το πλάτος, μεγαλύτερα κουμπιά παραθύρου, καθαρή εκτύπωση χωρίς κεφαλίδες του browser, κουμπί απόκτησης κλειδιού Claude.",
+  "pub_date": "2026-11-06T11:53:16Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYitHMlo3MjdlOEFGVlludTErSHJ0Z2RNaWxaVlM5Z1B6c244eVlaU2x1WGtuK05ienA5VVR6Rmpnbm9XNUVhT1RFT01uU0lrMlRyeUY5OWM5WXRVOFYyYWRZUVVSemdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTY1OTYxCWZpbGU6R3JhZmlkYV8xLjIuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4yLjIKS2pEc2oyQ1pucHpSNmpraVBBcHJLcGJVK3FWWFNVU3U5ZE8zQXl5R3NZTUI1T01TVGVkQnFjSTVIZXZuaUlhayttOXFZUWNmelh4Nm5EZURrdjBSRGc9PQo=",
+      "url": "https://github.com/vasileiostripolidis/grafida-releases/releases/download/v1.2.2/Grafida_1.2.2_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYitHMlo3MjdlOEFGVlludTErSHJ0Z2RNaWxaVlM5Z1B6c244eVlaU2x1WGtuK05ienA5VVR6Rmpnbm9XNUVhT1RFT01uU0lrMlRyeUY5OWM5WXRVOFYyYWRZUVVSemdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTY1OTYxCWZpbGU6R3JhZmlkYV8xLjIuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4yLjIKS2pEc2oyQ1pucHpSNmpraVBBcHJLcGJVK3FWWFNVU3U5ZE8zQXl5R3NZTUI1T01TVGVkQnFjSTVIZXZuaUlhayttOXFZUWNmelh4Nm5EZURrdjBSRGc9PQo=",
+      "url": "https://github.com/vasileiostripolidis/grafida-releases/releases/download/v1.2.2/Grafida_1.2.2_x64-setup.exe"
+    }
+  }
+}
