@@ -1,0 +1,19 @@
+{
+  "version": "1.7.0",
+  "notes": "Εισαγωγή: πεδία, δομικά στοιχεία, Αυτόματο κείμενο, βίντεο, στιγμιότυπα, εικόνες, υπολογιστικό φύλλο.",
+  "pub_date": "2026-11-06T14:40:07Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYitHMlo3MjdlOEhMZEFtUTZ5UWgvOHllTnFXNC84WVFtMHV1ZXVRNjFrajVvQ1ZVK1FRdzc0Zy9KSkJLVW0wNExYWnFIMU1OL3QvWGdwdkczVjMram1tbE1UZTVjOVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTc1OTczCWZpbGU6RE9DXzEuNy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjcuMApzQkhaa1c5Y1BzU1lka2tIbTViZDgwdHRxSDYxeVFGUzlZZjZpbkptODNtZm9XTlR2TklZYktqNjNpMzZFMWYxMDZBY05JZVZDSThHUzNBRjZpUElCZz09Cg==",
+      "url": "https://github.com/vasileiostripolidis/grafida-releases/releases/download/v1.7.0/DOC_1.7.0_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYitHMlo3MjdlOEhMZEFtUTZ5UWgvOHllTnFXNC84WVFtMHV1ZXVRNjFrajVvQ1ZVK1FRdzc0Zy9KSkJLVW0wNExYWnFIMU1OL3QvWGdwdkczVjMram1tbE1UZTVjOVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTc1OTczCWZpbGU6RE9DXzEuNy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjcuMApzQkhaa1c5Y1BzU1lka2tIbTViZDgwdHRxSDYxeVFGUzlZZjZpbkptODNtZm9XTlR2TklZYktqNjNpMzZFMWYxMDZBY05JZVZDSThHUzNBRjZpUElCZz09Cg==",
+      "url": "https://github.com/vasileiostripolidis/grafida-releases/releases/download/v1.7.0/DOC_1.7.0_x64-setup.exe"
+    },
+    "windows-x86_64-insider": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYitHMlo3MjdlOEhMZEFtUTZ5UWgvOHllTnFXNC84WVFtMHV1ZXVRNjFrajVvQ1ZVK1FRdzc0Zy9KSkJLVW0wNExYWnFIMU1OL3QvWGdwdkczVjMram1tbE1UZTVjOVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTc1OTczCWZpbGU6RE9DXzEuNy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjcuMApzQkhaa1c5Y1BzU1lka2tIbTViZDgwdHRxSDYxeVFGUzlZZjZpbkptODNtZm9XTlR2TklZYktqNjNpMzZFMWYxMDZBY05JZVZDSThHUzNBRjZpUElCZz09Cg==",
+      "url": "https://github.com/vasileiostripolidis/grafida-releases/releases/download/v1.7.0/DOC_1.7.0_x64-setup.exe"
+    }
+  }
+}
