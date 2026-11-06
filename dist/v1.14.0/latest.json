@@ -1,0 +1,19 @@
+{
+  "version": "1.14.0",
+  "notes": "Σχέδιο με μελάνι, νέες μορφές αρχείων (RTF, ODT, MHT), κρυπτογράφηση με κωδικό, Πείτε μου, προσαρμογή κορδέλας και πληκτρολογίου.",
+  "pub_date": "2026-11-06T17:03:56Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYitHMlo3MjdlOElaVzhkMG9TcnZtR3pjQVhMcHNIMktxem5sTk13aWNnekRYV2RqNHpmUzh0L0t5TjhCblhyY0NkK1NNSzNrR0twbFQvMWxWa2Fzb0YrcUE0Y2R1NVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTg0NTk3CWZpbGU6RE9DXzEuMTQuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xNC4wCmMyRlNLZmZwODFJQVY5L3h6cENVSEtnK3drZi9hbXN6dWdYckhhTDgrMTBibHpONWNLRjBJZ2dramMrTERkaTFFUUJEeTFzZ2kwVXN5T0RmRlo4VkRBPT0K",
+      "url": "https://github.com/vasileiostripolidis/grafida-releases/releases/download/v1.14.0/DOC_1.14.0_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYitHMlo3MjdlOElaVzhkMG9TcnZtR3pjQVhMcHNIMktxem5sTk13aWNnekRYV2RqNHpmUzh0L0t5TjhCblhyY0NkK1NNSzNrR0twbFQvMWxWa2Fzb0YrcUE0Y2R1NVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTg0NTk3CWZpbGU6RE9DXzEuMTQuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xNC4wCmMyRlNLZmZwODFJQVY5L3h6cENVSEtnK3drZi9hbXN6dWdYckhhTDgrMTBibHpONWNLRjBJZ2dramMrTERkaTFFUUJEeTFzZ2kwVXN5T0RmRlo4VkRBPT0K",
+      "url": "https://github.com/vasileiostripolidis/grafida-releases/releases/download/v1.14.0/DOC_1.14.0_x64-setup.exe"
+    },
+    "windows-x86_64-insider": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYitHMlo3MjdlOElaVzhkMG9TcnZtR3pjQVhMcHNIMktxem5sTk13aWNnekRYV2RqNHpmUzh0L0t5TjhCblhyY0NkK1NNSzNrR0twbFQvMWxWa2Fzb0YrcUE0Y2R1NVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTg0NTk3CWZpbGU6RE9DXzEuMTQuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xNC4wCmMyRlNLZmZwODFJQVY5L3h6cENVSEtnK3drZi9hbXN6dWdYckhhTDgrMTBibHpONWNLRjBJZ2dramMrTERkaTFFUUJEeTFzZ2kwVXN5T0RmRlo4VkRBPT0K",
+      "url": "https://github.com/vasileiostripolidis/grafida-releases/releases/download/v1.14.0/DOC_1.14.0_x64-setup.exe"
+    }
+  }
+}
