@@ -1,0 +1,19 @@
+{
+  "version": "1.6.0",
+  "notes": "Κεντρική: στυλ, εύρεση/αντικατάσταση για προχωρημένους, λίστες, στηλοθέτες, Πρόχειρο Office, ειδική επικόλληση.",
+  "pub_date": "2026-11-06T14:21:47Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYitHMlo3MjdlOEtUZTJTVnp2bC95VmNTRlVMZjZkYlNzU1d2QnA3TlNSSGxYQitHUU5IMzk2L3REdk1JMkJvZjcwNUJPNnZKcXZEejJrNmJYWGVQTXNBcDJtLzMwQ3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTc0ODIxCWZpbGU6RE9DXzEuNi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjYuMApKalBqK1dwa3NKUW5uaTJLcU1QN0hmMGoxSndiWVBweVJlb1NnWFdETUQwbklyekJLUVpaNWxLVDRIU09GWDAzQTc2VkF2K0d0eGZZL1gxQmMwcXRCdz09Cg==",
+      "url": "https://github.com/vasileiostripolidis/grafida-releases/releases/download/v1.6.0/DOC_1.6.0_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYitHMlo3MjdlOEtUZTJTVnp2bC95VmNTRlVMZjZkYlNzU1d2QnA3TlNSSGxYQitHUU5IMzk2L3REdk1JMkJvZjcwNUJPNnZKcXZEejJrNmJYWGVQTXNBcDJtLzMwQ3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTc0ODIxCWZpbGU6RE9DXzEuNi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjYuMApKalBqK1dwa3NKUW5uaTJLcU1QN0hmMGoxSndiWVBweVJlb1NnWFdETUQwbklyekJLUVpaNWxLVDRIU09GWDAzQTc2VkF2K0d0eGZZL1gxQmMwcXRCdz09Cg==",
+      "url": "https://github.com/vasileiostripolidis/grafida-releases/releases/download/v1.6.0/DOC_1.6.0_x64-setup.exe"
+    },
+    "windows-x86_64-insider": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYitHMlo3MjdlOEtUZTJTVnp2bC95VmNTRlVMZjZkYlNzU1d2QnA3TlNSSGxYQitHUU5IMzk2L3REdk1JMkJvZjcwNUJPNnZKcXZEejJrNmJYWGVQTXNBcDJtLzMwQ3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTc0ODIxCWZpbGU6RE9DXzEuNi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjYuMApKalBqK1dwa3NKUW5uaTJLcU1QN0hmMGoxSndiWVBweVJlb1NnWFdETUQwbklyekJLUVpaNWxLVDRIU09GWDAzQTc2VkF2K0d0eGZZL1gxQmMwcXRCdz09Cg==",
+      "url": "https://github.com/vasileiostripolidis/grafida-releases/releases/download/v1.6.0/DOC_1.6.0_x64-setup.exe"
+    }
+  }
+}
