@@ -1,0 +1,19 @@
+{
+  "version": "1.5.0",
+  "notes": "Αρχείο σαν του Word: Άνοιγμα με θέσεις και φακέλους, πρότυπα με κατηγορίες, ιδιότητες για προχωρημένους, επιθεώρηση εγγράφου, εκτύπωση για προχωρημένους (φυλλάδιο, σελίδες ανά φύλλο, μονές/ζυγές), αποστολή email, εξαγωγή PowerPoint, Ctrl+Z για περιθώρια, νέο λογότυπο.",
+  "pub_date": "2026-11-06T13:47:30Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYitHMlo3MjdlOE1WU25uandROVpmZE9DVWVlVFFGNnlPcTYyUjZ1S3RCK0lsL0RoYnZhZTcrejdXSDhTOWtlQTg0VFZoM294bFcvKzdRdk9CMjBkeDYrd1MxS3Bva2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTcyODE3CWZpbGU6RE9DXzEuNS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjUuMAphYjk1NUJ2dlA3NFRteDN0aGlLTk5FSlpreUY5YmdqczYyVkVoTDFUSURIODh1c09ILzZhWC9HdiszN0k4aHBuWUdxOHBZS0plUW5tNC9GajUvZGNDQT09Cg==",
+      "url": "https://github.com/vasileiostripolidis/grafida-releases/releases/download/v1.5.0/DOC_1.5.0_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYitHMlo3MjdlOE1WU25uandROVpmZE9DVWVlVFFGNnlPcTYyUjZ1S3RCK0lsL0RoYnZhZTcrejdXSDhTOWtlQTg0VFZoM294bFcvKzdRdk9CMjBkeDYrd1MxS3Bva2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTcyODE3CWZpbGU6RE9DXzEuNS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjUuMAphYjk1NUJ2dlA3NFRteDN0aGlLTk5FSlpreUY5YmdqczYyVkVoTDFUSURIODh1c09ILzZhWC9HdiszN0k4aHBuWUdxOHBZS0plUW5tNC9GajUvZGNDQT09Cg==",
+      "url": "https://github.com/vasileiostripolidis/grafida-releases/releases/download/v1.5.0/DOC_1.5.0_x64-setup.exe"
+    },
+    "windows-x86_64-insider": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYitHMlo3MjdlOE1WU25uandROVpmZE9DVWVlVFFGNnlPcTYyUjZ1S3RCK0lsL0RoYnZhZTcrejdXSDhTOWtlQTg0VFZoM294bFcvKzdRdk9CMjBkeDYrd1MxS3Bva2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTcyODE3CWZpbGU6RE9DXzEuNS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjUuMAphYjk1NUJ2dlA3NFRteDN0aGlLTk5FSlpreUY5YmdqczYyVkVoTDFUSURIODh1c09ILzZhWC9HdiszN0k4aHBuWUdxOHBZS0plUW5tNC9GajUvZGNDQT09Cg==",
+      "url": "https://github.com/vasileiostripolidis/grafida-releases/releases/download/v1.5.0/DOC_1.5.0_x64-setup.exe"
+    }
+  }
+}
