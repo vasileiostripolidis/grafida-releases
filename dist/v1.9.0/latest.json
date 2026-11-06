@@ -1,0 +1,19 @@
+{
+  "version": "1.9.0",
+  "notes": "Αναφορές: πίνακας περιεχομένων, υποσημειώσεις/σημειώσεις τέλους, πηγές, λεζάντες, ευρετήριο, αναζήτηση.",
+  "pub_date": "2026-11-06T15:11:19Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYitHMlo3MjdlOEpoYmJrYkVVOVM0eTU3elFUY3Mwa0pTSlg0L3cyZWRBZXY4M0Q4OFQzMjR0b1IyaDMzUUh4THhCZVloamJHWkdqWDk5eGlsUmMycjRKaTZWUnlRVWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTc3ODU0CWZpbGU6RE9DXzEuOS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjkuMApVb2k2cFN0eTk5RFJvaklvT2Q2VDlybzBPaElyRUROT0ZUeSt6OXNkVkRLcHRKWC9CZEhsdnpncXRDN2tjc0YyWVRuWnltYkZUdzQwMEl6c1kxYlJBZz09Cg==",
+      "url": "https://github.com/vasileiostripolidis/grafida-releases/releases/download/v1.9.0/DOC_1.9.0_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYitHMlo3MjdlOEpoYmJrYkVVOVM0eTU3elFUY3Mwa0pTSlg0L3cyZWRBZXY4M0Q4OFQzMjR0b1IyaDMzUUh4THhCZVloamJHWkdqWDk5eGlsUmMycjRKaTZWUnlRVWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTc3ODU0CWZpbGU6RE9DXzEuOS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjkuMApVb2k2cFN0eTk5RFJvaklvT2Q2VDlybzBPaElyRUROT0ZUeSt6OXNkVkRLcHRKWC9CZEhsdnpncXRDN2tjc0YyWVRuWnltYkZUdzQwMEl6c1kxYlJBZz09Cg==",
+      "url": "https://github.com/vasileiostripolidis/grafida-releases/releases/download/v1.9.0/DOC_1.9.0_x64-setup.exe"
+    },
+    "windows-x86_64-insider": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYitHMlo3MjdlOEpoYmJrYkVVOVM0eTU3elFUY3Mwa0pTSlg0L3cyZWRBZXY4M0Q4OFQzMjR0b1IyaDMzUUh4THhCZVloamJHWkdqWDk5eGlsUmMycjRKaTZWUnlRVWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTc3ODU0CWZpbGU6RE9DXzEuOS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjkuMApVb2k2cFN0eTk5RFJvaklvT2Q2VDlybzBPaElyRUROT0ZUeSt6OXNkVkRLcHRKWC9CZEhsdnpncXRDN2tjc0YyWVRuWnltYkZUdzQwMEl6c1kxYlJBZz09Cg==",
+      "url": "https://github.com/vasileiostripolidis/grafida-releases/releases/download/v1.9.0/DOC_1.9.0_x64-setup.exe"
+    }
+  }
+}
