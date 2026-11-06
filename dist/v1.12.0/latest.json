@@ -1,0 +1,19 @@
+{
+  "version": "1.12.0",
+  "notes": "Διάταξη πινάκων, μορφοποίηση εικόνων, επεξεργάσιμα γραφήματα και σχήματα, εξισώσεις με αρίθμηση.",
+  "pub_date": "2026-11-06T16:02:25Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYitHMlo3MjdlOEhWRFd0YjZYbDdoZXlyajN4RTJKdnFHVUROZTJFa2pQd0srV2VCMzUzK1dwNHpoUVJicUxiRVR2dWxMOXFENHBpenU5eW5PcjllbStvbVFYUkwzVnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTgwOTA0CWZpbGU6RE9DXzEuMTIuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xMi4wCm10VGdCZThsRWZ0eWw1bXA2YVpML01pRit5U3RSTUlWZndYWDQzN0lKK0RaY3U1WHJmdzNrNnk5QWZaWnR0S1kzSXdXUEd3UnFLM2ZQTTF5bWRwdUFBPT0K",
+      "url": "https://github.com/vasileiostripolidis/grafida-releases/releases/download/v1.12.0/DOC_1.12.0_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYitHMlo3MjdlOEhWRFd0YjZYbDdoZXlyajN4RTJKdnFHVUROZTJFa2pQd0srV2VCMzUzK1dwNHpoUVJicUxiRVR2dWxMOXFENHBpenU5eW5PcjllbStvbVFYUkwzVnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTgwOTA0CWZpbGU6RE9DXzEuMTIuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xMi4wCm10VGdCZThsRWZ0eWw1bXA2YVpML01pRit5U3RSTUlWZndYWDQzN0lKK0RaY3U1WHJmdzNrNnk5QWZaWnR0S1kzSXdXUEd3UnFLM2ZQTTF5bWRwdUFBPT0K",
+      "url": "https://github.com/vasileiostripolidis/grafida-releases/releases/download/v1.12.0/DOC_1.12.0_x64-setup.exe"
+    },
+    "windows-x86_64-insider": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYitHMlo3MjdlOEhWRFd0YjZYbDdoZXlyajN4RTJKdnFHVUROZTJFa2pQd0srV2VCMzUzK1dwNHpoUVJicUxiRVR2dWxMOXFENHBpenU5eW5PcjllbStvbVFYUkwzVnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTgwOTA0CWZpbGU6RE9DXzEuMTIuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xMi4wCm10VGdCZThsRWZ0eWw1bXA2YVpML01pRit5U3RSTUlWZndYWDQzN0lKK0RaY3U1WHJmdzNrNnk5QWZaWnR0S1kzSXdXUEd3UnFLM2ZQTTF5bWRwdUFBPT0K",
+      "url": "https://github.com/vasileiostripolidis/grafida-releases/releases/download/v1.12.0/DOC_1.12.0_x64-setup.exe"
+    }
+  }
+}
